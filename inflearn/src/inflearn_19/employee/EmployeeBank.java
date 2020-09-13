@@ -1,7 +1,7 @@
 package inflearn_19.employee;
 
 public class EmployeeBank {
-	String name;
+	public String name;
 	static int amount = 0;
 	
 	public EmployeeBank(String name) {
